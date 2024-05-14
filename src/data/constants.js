@@ -205,7 +205,7 @@ export const projects = [
     title: "CineFlix",
     description:
       "CineFlix is a React-based web application that allows users to explore a vast collection of movies and TV shows sourced from the TMDb API. With CineFlix, users can easily discover trending content, filter by genre, and sort by popularity, rating, or release date. Whether you're a movie buff or a TV enthusiast, CineFlix provides a seamless and intuitive way to find your next favorite film or series.",
-
+    image: "https://private-user-images.githubusercontent.com/134709589/330282074-99bcc9a8-3a47-4bf1-9144-15ce563fdc22.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU2NzAwNDQsIm5iZiI6MTcxNTY2OTc0NCwicGF0aCI6Ii8xMzQ3MDk1ODkvMzMwMjgyMDc0LTk5YmNjOWE4LTNhNDctNGJmMS05MTQ0LTE1Y2U1NjNmZGMyMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUxNFQwNjU1NDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jMGRlYTEyOWMzZmZlM2E1YjJhNjk5M2YxOTBlNDRlMDRlMmRkM2FmNGEwMDAxYzU4OGRlYTUyZGRjNmNmZDQxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.gczDzPald6a6CKxQ6gksVMMo7yoTNllT37S4WStj1-c",
     tags: [
       "JavaScript",
       "React Js",
@@ -214,13 +214,14 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/Vimal-Mudalagi/CineFlix.git",
-    webapp: "",
+    webapp: "https://cine-flix-black.vercel.app/",
   },
   {
     id: 3,
     title: "Melody Mastery",
     description:
       "MelodyMastery is a web application designed to help users master the art of music. Built with Next.js and the Aceternity UI library, this project offers a seamless user experience with a focus on simplicity and functionality.",
+    image: "https://private-user-images.githubusercontent.com/134709589/330315707-d5cf8104-c4c4-485b-b252-339879e65b3d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU2NzA4MTQsIm5iZiI6MTcxNTY3MDUxNCwicGF0aCI6Ii8xMzQ3MDk1ODkvMzMwMzE1NzA3LWQ1Y2Y4MTA0LWM0YzQtNDg1Yi1iMjUyLTMzOTg3OWU2NWIzZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUxNFQwNzA4MzRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNDBiYWZhNDM0YmUwMGM2MWRlN2UwNjdhZTU3MzA5OTdhMzI0ZDAyZGRhMDc1YTExYmRiNTg2NjhiY2ZlN2Y1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.DQtrbJLMzPL17Cf-9SvgOMyYGJLi_9-CZ5bspcd-0r4",
     tags: ["NextJS", "Acertinity UI"],
     category: "web app",
     github: "https://github.com/Vimal-Mudalagi/MelodyMastery.git",
@@ -232,7 +233,7 @@ export const projects = [
 
     description:
       "Password Manager is a web application that utilizes local storage to securely save and manage passwords. It offers a simple and intuitive interface for storing, editing, copying, and deleting passwords.",
-
+    image: "https://private-user-images.githubusercontent.com/134709589/330320916-6c027641-f04a-4f35-bed8-9450641c9a63.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU2NzExNjcsIm5iZiI6MTcxNTY3MDg2NywicGF0aCI6Ii8xMzQ3MDk1ODkvMzMwMzIwOTE2LTZjMDI3NjQxLWYwNGEtNGYzNS1iZWQ4LTk0NTA2NDFjOWE2My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUxNFQwNzE0MjdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yZjAzODNlNzQzYjJjZjQ3OWRlMmQzMGE3YzhmNWRlNGEzMzZhNGIzZTA2M2JjOWRmNzZhN2UwMzc2NDY1ZjQ1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.rwrJ5-K_L3AVIEcJmvnNf1zzjD94krfoiUonfwriOWo",
     tags: ["React Js", "TailwindCSS", "JavaScript"],
     category: "web app",
     github: "https://github.com/Vimal-Mudalagi/passwordManager.git",
@@ -243,6 +244,7 @@ export const projects = [
     title: "LinguaLink",
     description:
       "Created a translator app that easily translate text between languages, with a user-friendly interface. They run fast thanks to Vite and look great with Tailwind CSS. Plus, they use integrated APIs for added functionality.",
+      image:"https://private-user-images.githubusercontent.com/134709589/330323950-05c0d663-077f-4d29-8d60-6cad65f25b7f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU2NzE0NTAsIm5iZiI6MTcxNTY3MTE1MCwicGF0aCI6Ii8xMzQ3MDk1ODkvMzMwMzIzOTUwLTA1YzBkNjYzLTA3N2YtNGQyOS04ZDYwLTZjYWQ2NWYyNWI3Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUxNFQwNzE5MTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05MjBkY2RjYTlhYTc3ZGI4NTRkMmRhOGVmNDdkODM1ZjdiOWIyNTBjNDdkODczNTE5MTM3OWNiMmY5OTE4ODk5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.3JqWJQ8hrk-zMZwJkWKW0nDaZpFJ5zxF90nrfNvZ8OA",
     tags: [
       "React Js",
       "TailwindCSS",
@@ -258,11 +260,11 @@ export const projects = [
     title: "Twitter (X) UI",
     description:
       "This project is a replica of the Twitter interface. With precise attention to detail, this UI clone faithfully recreates the familiar Twitter layout, providing users with an immersive experience that mirrors the original platform's aesthetics and interactions.",
-
+image:"https://private-user-images.githubusercontent.com/134709589/330326794-f7587fab-cec9-4648-9be9-1c4b126277e8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU2NzE5NDUsIm5iZiI6MTcxNTY3MTY0NSwicGF0aCI6Ii8xMzQ3MDk1ODkvMzMwMzI2Nzk0LWY3NTg3ZmFiLWNlYzktNDY0OC05YmU5LTFjNGIxMjYyNzdlOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUxNFQwNzI3MjVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04M2YzNjI5YTBjYThkZWUxMjQ3ODZkYzkzMmI3NTJjOWVmYmIyMmRjNjZiODM3YWU5NzcwNWIzNTA2N2UwMGYxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.RJFM0v9LuHImQNEaGynaj0qs3ItLOD2khMEbEoULLOg",
     tags: ["TailwindCSS", "React", "Vite"],
     category: "web app",
     github: "https://github.com/Vimal-Mudalagi/Twitter-X-UIClone.git",
-    webapp: "https://brain-tumor.netlify.app/",
+    webapp: "",
   },
 ];
 
