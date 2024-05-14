@@ -1,5 +1,3 @@
-
-
 export const Bio = {
   name: "Vimal Mudalagi",
   roles: [
@@ -36,11 +34,11 @@ export const skills = [
           "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII=",
       },
       {
-        name: "HTML",
+        name: "HTML5",
         image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
       },
       {
-        name: "CSS",
+        name: "CSS3",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
       },
@@ -112,7 +110,7 @@ export const skills = [
       },
       {
         name: "C",
-        image: "https://th.bing.com/th/id/OIP.5d8UVfgws59CnTxVoYQplwHaIe?rs=1&pid=ImgDetMain",
+        image: "https://www.pinclipart.com/picdir/big/396-3965857_c-c-programming-language-logo-clipart.png",
       },
     ],
   },
@@ -207,7 +205,7 @@ export const projects = [
     title: "CineFlix",
     description:
       "CineFlix is a React-based web application that allows users to explore a vast collection of movies and TV shows sourced from the TMDb API. With CineFlix, users can easily discover trending content, filter by genre, and sort by popularity, rating, or release date. Whether you're a movie buff or a TV enthusiast, CineFlix provides a seamless and intuitive way to find your next favorite film or series.",
-   
+
     tags: [
       "JavaScript",
       "React Js",
@@ -223,7 +221,7 @@ export const projects = [
     title: "Melody Mastery",
     description:
       "MelodyMastery is a web application designed to help users master the art of music. Built with Next.js and the Aceternity UI library, this project offers a seamless user experience with a focus on simplicity and functionality.",
-    tags: ["NextJS", "Acertinity UI" ],
+    tags: ["NextJS", "Acertinity UI"],
     category: "web app",
     github: "https://github.com/Vimal-Mudalagi/MelodyMastery.git",
     webapp: "https://melody-mastery-1aflbp11e-vimals-projects-874c5ca7.vercel.app/",
@@ -231,11 +229,11 @@ export const projects = [
   {
     id: 0,
     title: "Password Manager",
-  
+
     description:
       "Password Manager is a web application that utilizes local storage to securely save and manage passwords. It offers a simple and intuitive interface for storing, editing, copying, and deleting passwords.",
-  
-    tags: ["React Js","TailwindCSS", "JavaScript"],
+
+    tags: ["React Js", "TailwindCSS", "JavaScript"],
     category: "web app",
     github: "https://github.com/Vimal-Mudalagi/passwordManager.git",
     webapp: "https://password-manager-jwrkvpiin-vimals-projects-874c5ca7.vercel.app/",
@@ -260,19 +258,11 @@ export const projects = [
     title: "Twitter (X) UI",
     description:
       "This project is a replica of the Twitter interface. With precise attention to detail, this UI clone faithfully recreates the familiar Twitter layout, providing users with an immersive experience that mirrors the original platform's aesthetics and interactions.",
- 
+
     tags: ["TailwindCSS", "React", "Vite"],
     category: "web app",
     github: "https://github.com/Vimal-Mudalagi/Twitter-X-UIClone.git",
     webapp: "https://brain-tumor.netlify.app/",
   },
- 
 ];
 
-export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
-];
